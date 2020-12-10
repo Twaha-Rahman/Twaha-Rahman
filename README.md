@@ -8,7 +8,7 @@ Feel free to poke me in any of the following platforms (memes and cat videos are
 
 1. GitHub: *Here's a secret...you're already here!*
 2. Twitter: [@twaha_rahman](https://twitter.com/twaha_rahman)
-3. E-mail: mahi6703890@gmail.com
+3. E-mail: twaha.rahman.direct@gmail.com
 
 <!--
 **Twaha-Rahman/Twaha-Rahman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
