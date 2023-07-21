@@ -1,6 +1,6 @@
 # Twaha Rahman - @Twaha-Rahman
 
-Hey there, I'm Twaha - a web devoloper who loves the web more than himself. I love to push the boundaries of the web by using the new and exciting Web APIs whenever I can. I'm mainly a front-to-backend JavaScripter but I'm looking into Rust and WebAssembly right now as a learing oppotunity. I'm also a fellow camper [@freecodecamp](https://github.com/freeCodeCamp).
+Hey there, I'm Twaha - a web devoloper who loves the web a lil bit too much. I love to push the boundaries of the web by using the new and exciting Web APIs whenever I can. I'm mainly a front-to-backend JavaScripter but I'm looking into Rust and WebAssembly right now as a learing oppotunity. I'm also a fellow camper [@freecodecamp](https://github.com/freeCodeCamp).
 
 ### Get in touch with me
 
